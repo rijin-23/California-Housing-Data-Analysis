@@ -1,5 +1,4 @@
 annotated-types==0.5.0
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 blinker==1.6.3
 brotlipy==0.7.0
 contourpy==1.1.0
